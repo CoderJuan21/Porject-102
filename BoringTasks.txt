@@ -1,0 +1,8 @@
+I hate doing simple math equations. 
+It takes so much time for such simple problems
+
+I need to create 4 functions for addition, subtraction, Multiplicationg and division
+I need to create allow the user to choose and opperation of their chosing
+
+After the user choses their opperation i need to allow them to pick their numbers
+then after the numbers are chosen. Complete the opperation.
